@@ -1,38 +1,111 @@
 ---
+title: BrainScroller — Privacy Policy
 layout: default
-title: BrainScroller Privacy Policy
 ---
-_Last updated: 2025-10-01_
 
-**BrainScroller** (“we”, “us”, “our”) respects your privacy. This policy describes what we collect, why, and your choices.
+# BrainScroller — Privacy Policy
+**Last updated:** October 1, 2025
+
+Welcome to **BrainScroller** (“we”, “our”, “us”). We care about your privacy. This policy explains what we collect, how we use it, and your choices.  
+Questions? **brainscroller@gmail.com**
+
+---
 
 ## What we collect
-- **App usage & diagnostics** (crash logs, device info, performance).  
-- **Ads data** from Google AdMob to show ads and measure performance.  
-- **Analytics** (event names, device/OS, coarse location) via Amplitude.  
-- **Microphone audio** only when you start voice features (e.g., Ava voice). Audio is processed to provide the feature and not used for ads.
 
-## How we use data
-- Run core features (voice, notifications, content delivery).
-- Improve stability and UX (analytics, crash reports).
-- Show contextual advertising (via AdMob).
+### Information you provide
+- Account details (e.g., email) when you sign in or contact support.
+- In-app preferences (e.g., settings, completed items).
 
-## Sharing / selling
-- We **do not sell** personal data.  
-- We share with service providers **only** to operate the app (AdMob, Amplitude, RevenueCat if enabled).
+### Information collected automatically
+- **Usage data**: screens, taps, session length, crash logs.
+- **Device data**: model, OS, language, country/region, time zone, IP-derived region.
+- **Advertising identifiers** (e.g., Google Advertising ID) for ads and measurement.
+- **Push tokens** to deliver notifications to your device.
 
-## Retention & deletion
-- Analytics/diagnostics are retained for operational periods, then deleted/aggregated.
-- You can request deletion: **brainscroller@gmail.com**.
+### Microphone (optional)
+If you enable the **voice feature**, the app accesses the microphone while you use that feature. We do **not** record or listen in the background. Audio is used only to fulfill your request and is not collected otherwise.
+
+### Purchases (optional)
+If you buy subscriptions or features, we receive non-sensitive purchase metadata (product ID, status, timestamps). We do **not** receive full payment details.
+
+---
+
+## How we use information
+- Provide, maintain, and improve app features and performance.
+- Personalize content and measure feature effectiveness.
+- Show ads and limit ad frequency.
+- Send push notifications you opt into (reminders, new content).
+- Prevent fraud, secure our services, and comply with law.
+- Provide support and respond to requests.
+
+---
+
+## Third-party services (processors)
+We use trusted vendors to operate the app; they process data on our behalf under contract:
+
+- **Supabase** — authentication, database, storage, sessions.  
+- **Amplitude** — product analytics.  
+- **Google AdMob** — ads, measurement, fraud prevention (may receive device/ad IDs and coarse location signals).  
+- **Expo Notifications** — delivery of push notifications.  
+- **RevenueCat** *(if enabled)* — subscription & purchase management.
+
+These providers may process data on servers in various countries consistent with their own privacy commitments.
+
+---
+
+## Ads & tracking choices
+- **Personalized ads**: opt out in device settings (Google settings → Ads).  
+- **Analytics**: we use aggregated analytics to improve the product.  
+- **Do Not Sell**: we **do not sell** personal information.
+
+---
+
+## Push notifications
+We send notifications only if you allow them. Turn them off anytime in system settings or in-app (if available).
+
+---
+
+## Data retention
+- Account/usage data: kept while your account is active and for a reasonable period thereafter for backups, security, and legal requirements.  
+- Crash/diagnostic data: retained for operational periods, then aggregated or deleted.  
+- Purchase records: retained as required for accounting and anti-fraud.  
+- Notification tokens: deleted on logout, disablement, or after reasonable inactivity.
+
+---
 
 ## Security
-- Transport encryption (HTTPS) for data in transit.
-- Access controls for production systems.
+We use safeguards including encryption in transit (HTTPS), access controls, and least-privilege practices. No method is 100% secure, but we work to protect your data.
 
-## Your choices
-- Revoke microphone permission in system settings.
-- Reset advertising ID in device settings.
-- Opt out of personalized ads in your device Google settings.
+---
+
+## Your rights & choices
+Depending on your region, you may have rights to access, correct, delete, object/restrict, or port data.  
+Requests: **brainscroller@gmail.com** (we may need to verify your identity).
+
+**Control permissions**
+- **Microphone**: System Settings → Apps → BrainScroller → Permissions.  
+- **Notifications**: System Settings → Notifications → BrainScroller.  
+- **Ads personalization**: System Google settings → Ads → Opt out.  
+- **Sign-out/Delete**: use in-app options (if available) or email support.
+
+---
+
+## Children
+BrainScroller is **not directed to children under 13**. If we learn we collected personal info from a child under 13, we’ll delete it.
+
+---
+
+## International use
+We may process data on servers outside your country with appropriate protections consistent with applicable law.
+
+---
+
+## Changes
+We may update this policy. We’ll change the “Last updated” date and, if changes are material, notify you in-app or by other reasonable means.
+
+---
 
 ## Contact
+**BrainScroller**  
 **Email:** brainscroller@gmail.com

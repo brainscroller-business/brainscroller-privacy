@@ -23,7 +23,7 @@ _Last updated: 2025-10-01_
 
 ## Retention & deletion
 - Analytics/diagnostics are retained for operational periods, then deleted/aggregated.
-- You can request deletion: **privacy@brainscroller.app**.
+- You can request deletion: **brainscroller@gmail.com**.
 
 ## Security
 - Transport encryption (HTTPS) for data in transit.
@@ -34,8 +34,5 @@ _Last updated: 2025-10-01_
 - Reset advertising ID in device settings.
 - Opt out of personalized ads in your device Google settings.
 
-## Children
-BrainScroller isn’t directed to children under 13.
-
 ## Contact
-**Email:** privacy@brainscroller.app
+**Email:** brainscroller@gmail.com
